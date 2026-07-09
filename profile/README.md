@@ -146,7 +146,7 @@ sha256sum hidayah-os-1.0-nur-xfce.iso
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Built+with+%E2%99%A5+for+Muslims+worldwide;No+telemetry.+No+ads.+No+compromise.;الحمد+لله" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Built+with+%E2%99%A5+for+Muslims+worldwide;No+telemetry.+No+ads.+No+compromise." alt="Footer" />
 
 <br/><br/>
 
